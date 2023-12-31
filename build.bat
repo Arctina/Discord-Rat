@@ -1,0 +1,1 @@
+pyinstaller rat.py --noconsole --onefile --noconfirm
